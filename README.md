@@ -1,4 +1,4 @@
-# Anne of Green Gables Editions
+# Anne of Green Gables: Editions
 Proof-read and compare editions of _Anne of Green Gables_, by L. M. Montgomery.
 
 This repo contains transcriptions of the book.
