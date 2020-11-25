@@ -1,10 +1,10 @@
-# Anne of Green Gables
+# Anne of Green Gables Editions
 Proof-read and compare editions of _Anne of Green Gables_, by L. M. Montgomery.
 
-This repo contains only the <a href='https://johanley.github.io/anne-of-green-gables/index.html'>documentation</a> for the project.
+This repo contains transcriptions of the book.
+Each edition has a separate branch.
 
-Transcriptions of the book are in a <a href='https://github.com/johanley/anne-of-green-gables-editions'>separate repository</a>, 
-because it has specific branching needs.
-
+The <a href='https://johanley.github.io/anne-of-green-gables/index.html'>documentation</a> for the project is in a 
+separate <a href='https://github.com/johanley/anne-of-green-gables'>repo</a>, which doesn't share the same branching needs as this one.
 
 
