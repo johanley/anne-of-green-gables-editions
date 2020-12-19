@@ -5,4 +5,8 @@ This <em>DIG-DPC-2008-05</em> branch contains a transcription from Digital Proof
 
 Possible <a href='https://archive.org/details/anneofgreengable00montiala/page/n5/mode/2up'>copy-text</a>.
 
+At the end of their transcription, DPC note three spelling corrections they have made to the text. 
+Here, those corrections are reversed. 
+The idea here is to match the copy text as exactly as possible. 
+
 <a href='https://johanley.github.io/anne-of-green-gables/index.html'>Detailed documentation</a>.
