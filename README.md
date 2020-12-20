@@ -10,7 +10,7 @@ seem to be available on the web anywhere.)
 <a href='https://johanley.github.io/anne-of-green-gables/index.html'>Detailed documentation</a>.
 
 This transcription was proof-read by John O'Hanley over a 24 day period.
-It was then _diffed_ with three other transcriptions, in this order : 
+It was then _diffed_ with three other transcriptions (which are other branches in this repo), in this order : 
 * DIG-GUT-0000
 * DIG-DPC-2008-05
 * DIG-WIK-1908-11th
