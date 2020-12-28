@@ -7,3 +7,5 @@ with core corrections applied for errors that are certain or near-certain.
 The list of corrections applied is <a href='https://johanley.github.io/anne-of-green-gables/index.html#known-issues-certain-or-likely'>here</a>.
 
 <a href='https://johanley.github.io/anne-of-green-gables/index.html'>Detailed documentation</a>.
+
+The transcription in this branch has a Creative Commons Zero v1.0 Universal. That's equivalent to public domain.
