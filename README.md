@@ -16,3 +16,6 @@ It was then _diffed_ with three other transcriptions (which are other branches i
 * DIG-WIK-1908-11th
 
 These _diff_ operations found 147 issues missed by the proof-reader.
+
+This branch has a Creative Commons Zero v1.0 Universal. 
+That's equivalent to public domain.
