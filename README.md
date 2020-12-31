@@ -18,4 +18,4 @@ It was then _diffed_ with three other transcriptions (which are other branches i
 These _diff_ operations found 147 issues missed by the proof-reader.
 
 The transcription in this branch has a Creative Commons Zero v1.0 Universal. 
-That's equivalent to public domain.
+That's <a href='https://creativecommons.org/share-your-work/public-domain/cc0'>roughly equivalent to public domain.</a>
