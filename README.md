@@ -8,4 +8,5 @@ The list of corrections applied is <a href='https://johanley.github.io/anne-of-g
 
 <a href='https://johanley.github.io/anne-of-green-gables/index.html'>Detailed documentation</a>.
 
-The transcription in this branch has a Creative Commons Zero v1.0 Universal. That's equivalent to public domain.
+The transcription in this branch has a Creative Commons Zero v1.0 Universal.
+That's <a href='https://creativecommons.org/share-your-work/public-domain/cc0'>roughly equivalent to public domain.</a>
