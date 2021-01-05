@@ -1,13 +1,18 @@
 # Anne of Green Gables: Editions
 Proof-read and compare editions of _Anne of Green Gables_, by L. M. Montgomery.
 
-This repo contains transcriptions of the book.
-Each edition has a separate branch.
+This <em>DIG-DPC-2008-05-B</em> branch contains a transcription from Digital Proofreaders Canada. 
+The file was created in May of 2008, and was updated 2021-01-05.
+The updates contain fixes for issues identified by this project. 
 
-The <a href='https://johanley.github.io/anne-of-green-gables/index.html'>documentation</a> for the project is in a 
-separate <a href='https://github.com/johanley/anne-of-green-gables'>repo</a>, which doesn't share the same branching needs as this one.
+The raw file has also been uploaded to this branch, as a record of the exact source.
+It was downloaded from <a href='https://www.fadedpage.com/showbook.php?pid=20080509'>here</a> on 2021-01-05.
+It states that it's based on a book published by Ryerson in 1946.
 
-This <em>master</em> branch contains only empty stub files for the chapters of the novel.
+Possible <a href='https://archive.org/details/anneofgreengable00montiala/page/n5/mode/2up'>copy-text</a>.
 
-Each edition will have its own specific branch.
-New branches can be made starting with empty stub files.
+At the end of their transcription, DPC note three spelling corrections they have made to the text. 
+Here, those corrections are reversed. 
+The idea here is to match the copy text as exactly as possible. 
+
+<a href='https://johanley.github.io/anne-of-green-gables/index.html'>Detailed documentation</a>.
