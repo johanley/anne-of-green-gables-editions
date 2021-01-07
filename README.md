@@ -13,4 +13,7 @@ It states that it's based on a book published by Ryerson in 1946.
 
 Possible <a href='https://archive.org/details/anneofgreengable00montiala/page/n5/mode/2up'>copy-text</a>.
 
+At the end of their transcription, DPC note three corrections they have made to the text.
+Here, those corrections have been retained.
+
 <a href='https://johanley.github.io/anne-of-green-gables/index.html'>Detailed documentation</a>.
