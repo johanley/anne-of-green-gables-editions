@@ -2,7 +2,7 @@
 Proof-read and compare editions of _Anne of Green Gables_, by L. M. Montgomery.
 
 This <em>DIG-WIK-1908-11th</em> branch contains a transcription from Wikisource. 
-The raw file has also been uploaded to this branch, as a record of the exact source.
+The raw file has also been uploaded to <a href='https://github.com/johanley/anne-of-green-gables/tree/master/docs/snapshots/DIG-WIK-1908-11th'>here</a>, as a record of the exact source.
 It was downloaded from <a href='https://en.wikisource.org/wiki/Anne_of_Green_Gables_(1908)/Chapter_I'>here</a> on 2020-12-03, using 'Choose format', and 
 selecting the text file, and inputting the chapter title (the name of the wikisource page, to be more precise).
 Their transcription is based on the 1908 L. C. Page edition, <a href='https://en.wikisource.org/wiki/Page:Anneofgreengables-rbsc.djvu/8'>11th impression</a>, published 1909-08.
