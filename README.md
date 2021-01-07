@@ -1,7 +1,7 @@
 # Anne of Green Gables: Editions
 Proof-read and compare editions of _Anne of Green Gables_, by L. M. Montgomery.
 
-This <em>DIG-DPC-2008-05-B</em> branch contains a transcription from Digital Proofreaders Canada. 
+This <em>DIG-DPC-2008-05-B</em> branch contains a transcription from Distributed Proofreaders Canada. 
 The file was created in May of 2008, and was updated 2021-01-05.
 The updates contain fixes for issues identified by this project. 
 
