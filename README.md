@@ -8,7 +8,8 @@ selecting the text file, and inputting the chapter title (the name of the wikiso
 Their transcription is based on the 1908 L. C. Page edition, <a href='https://en.wikisource.org/wiki/Page:Anneofgreengables-rbsc.djvu/8'>11th impression</a>, published 1909-08.
 It was created by 2 proof-readers. 
 
-The text in this branch has had about 4-5 changes applied to it, in order to match changes I made as a result of further <em>diff</em> comparisons. 
+This represents a second cycle of error detection and correction, after the first cycle which identified over 100 issues.
+The text in this branch has had about 4-5 changes applied to it, in order to match changes I made as a result of this second cycle.
 
 The copy-text can be viewed <a href='https://en.wikisource.org/wiki/Page:Anneofgreengables-rbsc.djvu/8'>here</a> and <a href='https://archive.org/details/anneofgreengable00mont_11/page/n7/mode/2up'>here</a>.
 
